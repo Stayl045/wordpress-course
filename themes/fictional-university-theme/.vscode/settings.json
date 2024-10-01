@@ -1,0 +1,5 @@
+{
+  "html.autoClosingTags": true,
+  "javascript.autoClosingTags": true,
+  "html.format.templating": true
+}
